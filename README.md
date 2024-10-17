@@ -15,7 +15,7 @@ This project implements a machine learning model to classify SONAR signals as ei
 
 ## Installation
 ```bash
-git clone https://github.com/abhishekdeore/sonar-rock-mine-predictor.git
+git clone https://github.com/abhishekdeore/SONAR-Rock-or-Mine-Predictor.git
 cd sonar-rock-mine-predictor
 pip install -r requirements.txt
 ```
